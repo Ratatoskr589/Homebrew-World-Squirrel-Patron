@@ -369,7 +369,7 @@ CreatureList["swarm of fey squirrels"] = {
 					ability : 2,
 					damage : [4, 4, "piercing"],
 					range : "0 ft, 1 target",
-					description : "Reduced to 5 (2d4) dmg if the swarm has at hit points or fewer"
+					description : "Reduced to 5 (2d4) dmg if the swarm has at hit points or fewer",
 					abilitytodamage : false,
 						}],
 				traits : [{
